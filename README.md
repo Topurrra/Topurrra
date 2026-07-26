@@ -43,7 +43,7 @@ I build developer tools, local-first products, and practical AI experiences. My 
 <p>
   <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,cs,html,css,nodejs,git,github,linux,windows,vscode&perline=14" alt="Rust, TypeScript, JavaScript, Python, Java, C#, HTML, CSS, Node.js, Git, GitHub, Linux, Windows, and VS Code" />
   <br />
-  <img src="https://img.shields.io/badge/OutSystems-FF5B45?style=for-the-badge&logo=outsystems&logoColor=white" alt="OutSystems" />
+  <img height="48" src="https://cdn.simpleicons.org/outsystems/FF5B45" alt="OutSystems" />
 </p>
 
 ## GitHub at a glance
