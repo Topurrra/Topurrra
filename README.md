@@ -50,7 +50,7 @@ I build developer tools, local-first products, and practical AI experiences. My 
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,cs,html,css,nodejs,git,github,linux,windows,vscode&perline=14" alt="Rust, TypeScript, JavaScript, Python, Java, C#, HTML, CSS, Node.js, Git, GitHub, Linux, Windows, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,cs,rust,ts,js,python,git,github,linux,windows&perline=14" alt="Java, C#, Rust, TypeScript, JavaScript, Python, Git, GitHub, Linux, Windows" />
   <br />
   <img height="48" src="./assets/outsystems.svg" alt="OutSystems" />
 </p>
