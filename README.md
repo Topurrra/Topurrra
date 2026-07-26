@@ -38,7 +38,7 @@ I build developer tools, local-first products, and practical AI experiences. My 
     <td width="50%" valign="top">
       <h3>📻 Mono Radio</h3>
       <p>Radio for your pocket.</p>
-      <a href="https://github.com/Topurrra/mono-radio">Browse the radio →</a>
+      <a href="https://r.topuria.dev">Visit r.topuria.dev →</a> · <a href="https://github.com/Topurrra/mono-radio">Source</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 What I care about</h3>
