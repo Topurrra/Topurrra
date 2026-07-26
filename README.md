@@ -41,15 +41,18 @@ I build developer tools, local-first products, and practical AI experiences. My 
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,html,css,nodejs,git,github,linux,windows,vscode&perline=12" alt="Rust, TypeScript, JavaScript, Python, HTML, CSS, Node.js, Git, GitHub, Linux, Windows, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,java,cs,html,css,nodejs,git,github,linux,windows,vscode&perline=14" alt="Rust, TypeScript, JavaScript, Python, Java, C#, HTML, CSS, Node.js, Git, GitHub, Linux, Windows, and VS Code" />
+  <br />
+  <img src="https://img.shields.io/badge/OutSystems-FF5B45?style=for-the-badge&logo=outsystems&logoColor=white" alt="OutSystems" />
 </p>
 
 ## GitHub at a glance
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Topurrra&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&rank_icon=github" alt="Topurrra's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topurrra&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages used by Topurrra" />
-</div>
+<p>
+  <a href="https://github.com/Topurrra?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-6-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View Topurrra's repositories" /></a>
+  <a href="https://github.com/Topurrra?tab=stars"><img src="https://img.shields.io/badge/Stars-137-fbbf24?style=for-the-badge&logo=github&logoColor=white" alt="View repositories starred by Topurrra" /></a>
+  <a href="https://github.com/Topurrra?tab=projects"><img src="https://img.shields.io/badge/Projects-1-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Topurrra's projects" /></a>
+</p>
 
 <div align="center">
   <br />
