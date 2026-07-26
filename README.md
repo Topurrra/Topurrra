@@ -55,14 +55,6 @@ I build developer tools, local-first products, and practical AI experiences. My 
   <img height="48" src="./assets/outsystems.svg" alt="OutSystems" />
 </p>
 
-## GitHub at a glance
-
-<p>
-  <a href="https://github.com/Topurrra?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-6-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="View Topurrra's repositories" /></a>
-  <a href="https://github.com/Topurrra?tab=stars"><img src="https://img.shields.io/badge/Stars-137-fbbf24?style=for-the-badge&logo=github&logoColor=white" alt="View repositories starred by Topurrra" /></a>
-  <a href="https://github.com/Topurrra?tab=projects"><img src="https://img.shields.io/badge/Projects-1-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="View Topurrra's projects" /></a>
-</p>
-
 <div align="center">
   <br />
   <sub>Open to building things that deserve to exist.</sub>
