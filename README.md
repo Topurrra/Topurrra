@@ -36,9 +36,9 @@ I build developer tools, local-first products, and practical AI experiences. My 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Claude plugins</h3>
-      <p>A portable collection of coding-discipline and build-from-scratch skills.</p>
-      <a href="https://github.com/Topurrra/claude-plugins">Browse the plugins →</a>
+      <h3>📻 Mono Radio</h3>
+      <p>Radio for your pocket.</p>
+      <a href="https://github.com/Topurrra/mono-radio">Browse the radio →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧭 What I care about</h3>
