@@ -36,13 +36,14 @@ I build developer tools, local-first products, and practical AI experiences. My 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>👾 JNT</h3>
+      <p>Not so normal terminal</p>
+      <a href="https://justanormal.dev/">Visit justanormal.dev →</a> · <a href="https://github.com/Topurrra/JNT">Source</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>📻 Mono Radio</h3>
       <p>Radio for your pocket.</p>
       <a href="https://r.topuria.dev">Visit r.topuria.dev →</a> · <a href="https://github.com/Topurrra/mono-radio">Source</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧭 What I care about</h3>
-      <p>Tools that stay fast, respect the user, and make difficult work feel simpler.</p>
     </td>
   </tr>
 </table>
