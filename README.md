@@ -14,12 +14,17 @@ I build developer tools, local-first products, and practical AI experiences. My 
 
 ## Working on
 
-- **KeepITLocal Workspace**: All-in-one Windows workspace that runs entirely on your machine. No cloud, no account, no network. Ever.
-- **KeepITLocal Redact**: A fully offline desktop app that redacts sensitive information from documents, images, audio, and video
-- **KeepITLocal Memory**: Encrypted long-term memory that stays under the user's control.
-- **OMNIS-X**: A production-readiness scanner for AI-generated code.
-- **JNE (Just a Normal Editor)**: Not so normal editor.
-- **JNT (Just a Normal Terminal)**: Not so normal terminal.
+- **JNT (Just a Normal Terminal)**: Not so normal terminal. [DONE]
+- **VOLI**:A fast Windows package manager (and not only) with no admin rights, registry changes, or install scripts. [DONE]
+- **The Missing Manual**:A free, text-first library for developers and STEM learners who want clarity without the noise. [DONE]
+- **Mono Radio**:A free Radio for your pocket. [DONE]
+- **KeepITLocal Workspace**: All-in-one Windows workspace that runs entirely on your machine. No cloud, no account, no network. [IN PROGRESS]
+- **KeepITLocal Redact**: A fully offline desktop app that redacts sensitive information from documents, images, audio, and video. [IN PROGRESS]
+- **KeepITLocal Memory**: Encrypted long-term memory that stays under the user's control. [IN PROGRESS]
+- **OMNIS-X**: A production-readiness scanner for AI-generated code. [IN PROGRESS]
+- **JNE (Just a Normal Editor)**: Not so normal editor. [IN PROGRESS]
+
+## Portfolio
 
 <table>
   <tr>
