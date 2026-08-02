@@ -45,9 +45,9 @@ I build developer tools, local-first products, and practical AI experiences. My 
       <a href="https://justanormal.dev/">Visit justanormal.dev →</a> · <a href="https://github.com/Topurrra/JNT">Source</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📻 Mono Radio</h3>
-      <p>Radio for your pocket.</p>
-      <a href="https://r.topuria.dev">Visit r.topuria.dev →</a> · <a href="https://github.com/Topurrra/mono-radio">Source</a>
+      <h3>🤖🇦🇮📊 AgentsBar</h3>
+      <p>Every AI coding limit in your Windows tray.</p>
+      <a href="https://github.com/Topurrra/AgentsBar">Source</a>
     </td>
   </tr>
 </table>
