@@ -1,11 +1,7 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,48:1d4ed8,100:22c55e&text=Nika%20Topuria&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer&descAlignY=57&descSize=18&animation=fadeIn" alt="Nika Topuria" />
-
 [![Website](https://img.shields.io/badge/Website-topuria.dev-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://topuria.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikaatopuria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikaatopuria/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Topurrra-ff9d00?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Topurrra)
-
 </div>
 
 ## Building useful things, close to the metal
