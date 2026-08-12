@@ -14,9 +14,10 @@ I build developer tools, local-first products, and practical AI experiences. My 
 ## Working on
 
 - **JNT (Just a Normal Terminal)**: Not so normal terminal. [DONE]
-- **VOLI**:A fast Windows package manager (and not only) with no admin rights, registry changes, or install scripts. [DONE]
-- **The Missing Manual**:A free, text-first library for developers and STEM learners who want clarity without the noise. [DONE]
-- **Mono Radio**:A free Radio for your pocket. [DONE]
+- **VOLI**: A fast Windows package manager (and not only) with no admin rights, registry changes, or install scripts. [DONE]
+- **The Missing Manual**: A free, text-first library for developers and STEM learners who want clarity without the noise. [DONE]
+- **Mono Radio**: A free Radio for your pocket. [DONE]
+- **Fish Catcher**: Extension for phishing and scam websites. [DONE]
 - **KeepITLocal Workspace**: All-in-one Windows workspace that runs entirely on your machine. [IN PROGRESS]
 - **KeepITLocal Redact**: A fully offline desktop app that redacts sensitive information from documents, images, audio, and video. [IN PROGRESS]
 - **KeepITLocal Memory**: Encrypted long-term memory that stays under the user's control. [IN PROGRESS]
