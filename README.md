@@ -7,10 +7,6 @@
 
 </div>
 
-## Building useful things, close to the metal
-
-I build developer tools, local-first products, and practical AI experiences. My work sits where fast systems, thoughtful product design, and a developer's daily workflow meet.
-
 ## Working on
 
 - **JNT (Just a Normal Terminal)**: Not so normal terminal. [DONE]
