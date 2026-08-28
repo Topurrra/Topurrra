@@ -42,7 +42,7 @@
       <a href="https://justanormal.dev/">Visit justanormal.dev →</a> · <a href="https://github.com/Topurrra/JNT">Source</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖🇦🇮📊 AgentsBar</h3>
+      <h3>🤖📊 AgentsBar</h3>
       <p>Every AI coding limit in your Windows tray.</p>
       <a href="https://github.com/Topurrra/AgentsBar">Source</a>
     </td>
